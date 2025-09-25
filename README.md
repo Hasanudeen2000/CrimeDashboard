@@ -7,3 +7,5 @@ presented findings using professional data visualisation principles and clear na
 
 Authored a concise, insight‑driven analytical report, employing descriptive statistics, demographic segmentation, and clear visual storytelling to surface actionable intelligence on preventable crimes, 
 arrest profiles, and resource‑allocation recommendations
+
+Do download the dashboard as it is not possible to view directly on GitHub. Thank you.
